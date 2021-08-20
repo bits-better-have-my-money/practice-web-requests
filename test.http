@@ -1,1 +1,2 @@
-GET https://api.wordnik.com/v4/word.json/banana/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=YOURAPIKEY
+
+GET https://api.wordnik.com/v4/word.json/banana/audio?useCanonical=false&limit=50&api_key=YOURAPIKEY
